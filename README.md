@@ -42,8 +42,8 @@
 
 ## 📊 GitHub Stats
 
-<
----
+<img src="https://github-readme-stats.vercel.app/api?username=021ash&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+
 
 ## 📫 Reach Me On
 
@@ -55,9 +55,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
-
----
-
 
 ---
 
