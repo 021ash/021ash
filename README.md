@@ -56,10 +56,10 @@
 ## 📫 Reach Me On
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="www.linkedin.com/in/ashwin-linson">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:ashwin007linson@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
