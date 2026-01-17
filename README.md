@@ -42,25 +42,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=021ash&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=021ash&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=021ash&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/username=021ash&layout=compact&theme=tokyonight&cache_seconds=1800" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=021ash&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=021ash&layout=compact&theme=tokyonight" />
-</p>
-
+<
 ---
 
 ## 📫 Reach Me On
 
 <p align="left">
-  <a href="www.linkedin.com/in/ashwin-linson" target="_blank">
+ <a href="https://www.linkedin.com/in/ashwin-linson/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:ashwin007linson@gmail.com">
